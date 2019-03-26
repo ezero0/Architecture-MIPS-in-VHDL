@@ -18,5 +18,3 @@ $ gtkwave grafico1.vcd
 ```
 
 
-### Example
-In process...
